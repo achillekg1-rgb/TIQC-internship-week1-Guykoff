@@ -11,7 +11,7 @@
 
 -> [Manual Setup](https://github.com/achillekg1-rgb/TIQC-internship-week1-Guykoff/blob/main/README.md#manual-setup) <-
 
--> [Help]() <-<br/><br/>
+-> [Help](https://github.com/achillekg1-rgb/TIQC-internship-week1-Guykoff/blob/main/README.md#help) <-<br/><br/>
 
 ## Easy Setup
 
