@@ -7,11 +7,11 @@
 
 <ins>**Guide**</ins>
 
--> [Easy Setup](https://github.com/achillekg1-rgb/TIQC-internship-week1-Guykoff/new/main#easy-setup) <-
+-> [Easy Setup](https://github.com/achillekg1-rgb/TIQC-internship-week1-Guykoff/blob/main/README.md#easy-setup) <-
 
--> [Manual Setup](https://github.com/achillekg1-rgb/TIQC-internship-week1-Guykoff/new/main#manual-setup) <-
+-> [Manual Setup](https://github.com/achillekg1-rgb/TIQC-internship-week1-Guykoff/edit/main/README.md#manual-setup) <-
 
--> [Help](https://github.com/achillekg1-rgb/TIQC-internship-week1-Guykoff/new/main#help) <-<br/><br/>
+-> [Help](https://github.com/achillekg1-rgb/TIQC-internship-week1-Guykoff/edit/main/README.md#help) <-<br/><br/>
 
 ## Easy Setup
 
